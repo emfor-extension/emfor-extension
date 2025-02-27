@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emfor-extension&show_icons=true&theme=dark)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emfor-extension&repo=github-readme-stats)](https://github.com/emfor-extension/github-readme-stats)
